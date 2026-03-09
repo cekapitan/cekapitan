@@ -1,22 +1,36 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&height=200&text=Cody%20Kapitan%20%7C%20Infrastructure%20Engineer&fontSize=40)
+![banner](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80)
 
-# Cody Kapitan
+# Cody Stamey
 
-Infrastructure Engineer • DevOps • Automation • AI-assisted workflows
+Infrastructure Engineer • DevOps • Automation • AI-Assisted Engineering
 
-I build tooling and automation that makes infrastructure easier to operate and developer workflows more efficient.
+I build tools and automation that make infrastructure easier to operate and developer workflows more efficient.
 
-My work typically focuses on:
+My interests sit at the intersection of:
 
-- infrastructure automation
+- Infrastructure automation
 - DevOps scripting
-- Git workflow tooling
-- operational utilities
-- knowledge-driven engineering workflows
+- Developer tooling
+- AI-assisted engineering workflows
+- Knowledge-driven documentation systems
 
 ---
 
-# What I'm Working On
+## Currently Building
+
+**AI + Infrastructure experiments**
+
+- AI assistants for engineering documentation
+- Knowledge-driven infrastructure troubleshooting
+- Documentation-powered DevOps workflows
+- Local AI workflows connected to engineering knowledge bases
+
+Experimental repo:
+
+➡️ **ai-infra-lab**  
+Experiments combining AI systems with infrastructure engineering workflows.
+
+---
 
 ## Infrastructure Automation
 
@@ -27,70 +41,59 @@ Most of my repositories focus on practical tooling for everyday engineering work
 - Git utilities
 - developer productivity tools
 
-These projects are built around a simple goal:
+Goal:
 
 **reduce repetitive operational work for engineers**
 
 ---
 
-## AI + Engineering Workflows
+## Knowledge-Driven Engineering
 
-Recently I've been experimenting with combining AI tools with engineering knowledge systems.
+Exploring ways engineering documentation can become a **living system**.
 
-Areas I'm exploring:
+Ideas being explored:
 
-- AI querying engineering documentation
-- markdown-based knowledge systems
-- AI-assisted operational runbooks
-- developer workflow automation
-- internal engineering assistants
-
----
-
-## Knowledge Systems for Engineers
-
-I'm experimenting with ways to use markdown documentation as a **knowledge base for engineering teams**.
-
-Ideas I'm exploring:
-
-- connecting engineering documentation to AI tools
-- building searchable operational knowledge bases
+- AI querying markdown documentation
+- searchable operational knowledge bases
 - documentation-driven infrastructure workflows
-- AI-assisted troubleshooting systems
+- AI-assisted runbooks
 
 ---
 
-# Engineering Philosophy
+## Engineering Philosophy
 
 Good infrastructure should:
 
 - reduce cognitive load
 - automate repetitive work
-- make systems observable
-- make operations predictable
+- improve observability
+- make systems predictable
 
 The best tooling disappears into the background and lets engineers focus on solving real problems.
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-Infrastructure  
-Linux • Docker • Kubernetes
+### Infrastructure
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
 
-Languages  
-Python • Shell
+### Languages
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash)
 
-Tooling  
-Git • automation tooling
+### Tooling
+![Git](https://img.shields.io/badge/Git-red?logo=git)
 
-Exploring  
+### Exploring
 AI-assisted engineering workflows  
 knowledge-driven documentation systems
 
 ---
 
-# GitHub Stats
+## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cekapitan&show_icons=true)
 
@@ -100,17 +103,19 @@ knowledge-driven documentation systems
 
 ---
 
-# Current Interests
+## Activity
 
-- infrastructure automation
-- AI-assisted engineering
-- developer tooling
-- internal developer platforms
-- knowledge-driven development
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cekapitan)
 
 ---
 
-# Connect
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=cekapitan)
+
+---
+
+## Connect
 
 GitHub  
 https://github.com/cekapitan
